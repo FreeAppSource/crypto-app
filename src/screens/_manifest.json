@@ -1,0 +1,28 @@
+{
+ "app": "Crypto App",
+ "start": "s-02",
+ "screens": [
+  {
+   "slug": "s-01",
+   "name": "01",
+   "page": "Page 1",
+   "w": 414,
+   "h": 896,
+   "elements": 30,
+   "links": 1
+  },
+  {
+   "slug": "s-02",
+   "name": "02",
+   "page": "Page 1",
+   "w": 414,
+   "h": 896,
+   "elements": 40,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "dm-sans"
+ ]
+}
